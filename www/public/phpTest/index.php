@@ -3,7 +3,7 @@
 <head lang="sv">
 </head>
 <body>
-<h1>PHP-test</h1>
+<h1>PHP-test Update</h1>
 <?php
    $tal1 = 5;
    $tal2 = 3;
